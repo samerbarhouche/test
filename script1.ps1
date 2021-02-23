@@ -1,1 +1,1 @@
-Add-WindowsFeature -Name Web-Server -IncludeAllSubFeature
+Write-Output "Hello world!"
